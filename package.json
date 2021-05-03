@@ -1,0 +1,19 @@
+{
+  "name": "alison-fractal",
+  "version": "1.0.0",
+  "description": "what is fractal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisonjo315/alison-fractal.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alisonjo315/alison-fractal/issues"
+  },
+  "homepage": "https://github.com/alisonjo315/alison-fractal#readme"
+}
