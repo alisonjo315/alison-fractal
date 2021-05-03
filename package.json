@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alisonjo315/alison-fractal/issues"
   },
-  "homepage": "https://github.com/alisonjo315/alison-fractal#readme"
+  "homepage": "https://github.com/alisonjo315/alison-fractal#readme",
+  "dependencies": {
+    "@frctl/fractal": "^1.5.6"
+  }
 }
